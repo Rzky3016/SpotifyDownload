@@ -4,7 +4,7 @@
 
 <img src="/docs/static/logo-transparent.png" alt="spotDL" width="200" />
 
-# spotDL
+# Spotify Downloader
 
 Download your Spotify playlists and songs along with album art and metadata
 
@@ -306,6 +306,8 @@ pipx run spotdl ...
 Interested in contributing? Check out our [CONTRIBUTING.md](docs/CONTRIBUTING.md) to find
 resources around contributing along with a guide on how to set up a development
 environment.
+
+## ENJOYED
 
 ## Contributors
 
